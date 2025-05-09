@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨‍💻 Junior Web Developer and Learning More
 --------------------------------------------
 
-Hi there! 👋 I'm José Moreno, a passionate student of Computer Science currently studying at IDAT in Lima, Peru. 🎓 I’m 26 years old and on my journey to becoming a full-stack developer. 🎯 I have experience working with SQL, Java, Python, C#, HTML, CSS, and JavaScript. 💻 Right now, I’m focused on expanding my skills by learning React and Tailwind CSS to build modern, responsive web applications. 📁 I enjoy taking on challenges, organizing personal projects, and sharing my progress as I grow. 🧠 My ultimate goal is to créate impactful digital solutions and contribute to real-world development teams.🌍 I'm currently building my personal portfolio website where I showcase my learning path and technical projects. I'm excited about technology, teamwork, and continuous improvement. 📫
+Hi there! 👋
+I'm José Moreno, a passionate student of Computer Science currently studying at IDAT in Lima, Peru. 🎓
+I’m 26 years old and on my journey to becoming a full-stack developer. 🎯
+I have experience working with SQL, Java, Python, C#, HTML, CSS, and JavaScript.
+💻 Right now, I’m focused on expanding my skills by learning React and Tailwind CSS to build modern, responsive web applications. 📁
+I enjoy taking on challenges, organizing personal projects, and sharing my progress as I grow. 🧠 My ultimate goal is to créate impactful digital solutions and contribute to real-world development teams. 🌍
+I'm currently building my personal portfolio website where I showcase my learning path and technical projects. I'm excited about technology, teamwork, and continuous improvement. 📫
 
 * 🌍  I'm based in I'm based in Lima, Perú 🇵🇪
 * 🖥️  See my portfolio at [My Portfolio](http://josemoreno7.github.io/MorenoDevs/)
