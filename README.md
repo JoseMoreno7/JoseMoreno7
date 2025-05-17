@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨‍💻 Junior Web Developer and Learning More
 --------------------------------------------
 
-Hi there! 👋
+Hi there! 👋 
 I'm José Moreno, a passionate student of Computer Science currently studying at IDAT in Lima, Peru. 🎓
 I’m 26 years old and on my journey to becoming a full-stack developer. 🎯
 I have knowledge in SQL, Java, Python, HTML, CSS and JavaScript.
