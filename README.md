@@ -13,9 +13,9 @@ I enjoy taking on challenges, organizing personal projects, and sharing my progr
 I'm currently building my personal portfolio website where I showcase my learning path and technical projects. I'm excited about technology, teamwork, and continuous improvement. 📫
 
 * 🌍  I'm based in I'm based in Lima, Perú 🇵🇪
-* 🖥️  See my portfolio at [My Portfolio](http://josemoreno7.github.io/MorenoDevs/)
-* ✉️  You can contact me at [jose7arevalo7moreno7@gmail.com](mailto:jose7arevalo7moreno7@gmail.com)
-* 🚀  I'm currently working on [I'm currently working on learning backend development with Spring Boot and creating RESTful APIs](http://https://brown-dev.vercel.app/)
+* 🖥️  See my portfolio at [MorenoDevs](http://josemoreno7.github.io/MorenoDevs/)
+* ✉️  You can contact me at [Gmail](mailto:jose7arevalo7moreno7@gmail.com)
+* 🚀  I'm currently working on [I'm currently working on new web site](http://https://brown-dev.vercel.app/)
 * 🧠  I'm learning I'm currently learning how to build user-friendly interfaces using React.js and advanced CSS frameworks like Tailwind.
 * 🤝  I'm open to collaborating on I'm open to collaborating on any interesting web or software development projects where I can learn, grow, and contribute with my current knowledge.
 * ⚡  Outside of coding, I enjoy learning new skills, helping others, and exploring ways to use technology to make life easier. Always open to connect and share ideas!
