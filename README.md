@@ -1,48 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is José Moreno
-===================================================================================================================================
+<h1 align="center">Hola 👋, soy José Moreno</h1>
+<h3 align="center">Desarrollador Web | Soporte TI | Lima, Perú 🇵🇪</h3>
 
-👨‍💻 Junior Web Developer and Learning More
---------------------------------------------
+<p align="center">
+  <a href="https://www.linkedin.com/in/josemorenodeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-josemorenodeveloper-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/morenodevs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@morenodevs-E4405F?style=flat&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://josemoreno7.github.io/MorenoDevs/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-MorenoDevs-181717?style=flat&logo=github" alt="Portafolio" />
+  </a>
+  <a href="mailto:jose7arevalo7moreno7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-Hi there! 👋 
-I'm José Moreno, a passionate student of Computer Science currently studying at IDAT in Lima, Peru. 🎓
-I’m 26 years old and on my journey to becoming a full-stack developer. 🎯
-I have knowledge in SQL, Java, Python, HTML, CSS and JavaScript.
-💻 Right now, I’m focused on expanding my skills by learning React and Tailwind CSS to build modern, responsive web applications. 📁
-I enjoy taking on challenges, organizing personal projects, and sharing my progress as I grow. 🧠 My ultimate goal is to créate impactful digital solutions and contribute to real-world development teams. 🌍
-I'm currently building my personal portfolio website where I showcase my learning path and technical projects. I'm excited about technology, teamwork, and continuous improvement. 📫
+---
 
-* 🌍  I'm based in I'm based in Lima, Perú 🇵🇪
-* 🖥️  See my portfolio at [MorenoDevs](http://josemoreno7.github.io/MorenoDevs/)
-* ✉️  You can contact me at [Gmail](mailto:jose7arevalo7moreno7@gmail.com)
-* 🚀  I'm currently working on [I'm currently working on new web site](http://https://brown-dev.vercel.app/)
-* 🧠  I'm learning I'm currently learning how to build user-friendly interfaces using React.js and advanced CSS frameworks like Tailwind.
-* 🤝  I'm open to collaborating on I'm open to collaborating on any interesting web or software development projects where I can learn, grow, and contribute with my current knowledge.
-* ⚡  Outside of coding, I enjoy learning new skills, helping others, and exploring ways to use technology to make life easier. Always open to connect and share ideas!
+### 👨‍💻 Sobre mí
 
-### Skills
+Egresado de **Desarrollo de Sistemas de la Información** en IDAT (oct. 2025) y actualmente practicante de **Soporte Técnico** en la Universidad Autónoma del Perú desde enero de 2026.
 
+Me interesa construir soluciones web útiles, con interfaces claras y lógica sólida. Mi enfoque principal está en **TypeScript, Java y bases de datos relacionales**. Me interesa seguir fortaleciendo mis conocimientos mediante proyectos prácticos y soluciones orientadas a necesidades reales.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" width="36" height="36" alt="SQL Server" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer">
+---
 
-### Socials
+### 🛠️ Tecnologías con las que trabajo
 
-<p align="left"> <a href="https://www.github.com/JoseMoreno7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/josearevalomoreno/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jose-alfredo-arevalo-moreno-391441245/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**Desarrollo web y aplicaciones**
 
-### Badges
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Bases de datos y nube**
 
-<a href="http://www.github.com/JoseMoreno7"><img src="https://github-readme-stats.vercel.app/api?username=JoseMoreno7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoseMoreno7's GitHub stats" /></a>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-<a href="http://www.github.com/JoseMoreno7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseMoreno7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Herramientas**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+**Conocimientos complementarios**
 
-<a href="https://github.com/JoseMoreno7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMoreno7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Python · C · C# · .NET · Android Studio · PHP
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/JoseMoreno7/MorenoDevs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMoreno7&repo=MorenoDevs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack | Demo | Código |
+|---|---|---|---|---|
+| **MJ Perú Tours** | Sitio web para una agencia de turismo. | Next.js · TypeScript · Tailwind CSS | [Ver demo](https://mj-peru-tours.vercel.app) | [Repositorio](https://github.com/JoseMoreno7/mj-peru-tours) |
+| **Mily Blog** | Blog web desarrollado con TypeScript. | TypeScript · React | [Ver demo](https://mily-blog.vercel.app) | [Repositorio](https://github.com/JoseMoreno7/mily-blog) |
+| **MorenoDevs** | Mi portafolio personal. | React · Vite · Tailwind CSS | [Ver demo](https://josemoreno7.github.io/MorenoDevs/) | [Repositorio](https://github.com/JoseMoreno7/MorenoDevs) |
+
+---
+
+### 🔧 Soporte TI
+
+En mis prácticas en la Universidad Autónoma del Perú trabajo con:
+- Mantenimiento preventivo de PCs y laptops
+- Cambio de RAM, disco duro y SSD
+- Clonación de discos y reinstalación de sistemas
+- Configuración de usuarios y equipos en red
+- Soporte básico de redes: IP, DNS, puerta de enlace
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseMoreno7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de José Moreno" />
+</p>
