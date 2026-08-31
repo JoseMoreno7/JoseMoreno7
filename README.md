@@ -75,9 +75,8 @@ Me interesa construir soluciones web útiles, con interfaces claras y lógica s�
 
 En mis prácticas en la Universidad Autónoma del Perú trabajo con:
 - Mantenimiento preventivo de PCs y laptops
-- Cambio de RAM, disco duro y SSD
 - Clonación de discos y reinstalación de sistemas
 - Configuración de usuarios y equipos en red
-- Soporte básico de redes: IP, DNS, puerta de enlace
+- Soporte de redes: IP, DNS, puerta de enlace
 
 ---
