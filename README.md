@@ -76,9 +76,3 @@ En mis prácticas en la Universidad Autónoma del Perú trabajo con:
 - Soporte básico de redes: IP, DNS, puerta de enlace
 
 ---
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseMoreno7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de José Moreno" />
-</p>
